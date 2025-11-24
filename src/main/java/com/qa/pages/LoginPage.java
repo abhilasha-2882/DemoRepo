@@ -11,4 +11,8 @@ public class LoginPage {
 	{
 		System.out.println("Login Set");
 	}
+	public void loginGet()
+	{
+		System.out.printlns("loginSet");
+	}
 }
