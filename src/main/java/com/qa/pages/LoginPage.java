@@ -13,6 +13,6 @@ public class LoginPage {
 	}
 	public void loginGet()
 	{
-		System.out.printlns("loginSet");
+		System.out.println("loginSet");
 	}
 }
