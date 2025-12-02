@@ -16,6 +16,11 @@ public class LoginTest {
 	{
 		System.out.println("test");
 	}
+	@Test
+	public void loginTest2()
+	{
+		System.out.println("test");
+	}
 	
 }
 
