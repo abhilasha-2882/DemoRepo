@@ -1,4 +1,4 @@
-NewTest
+public class NewTest
   {
    @Test
     public void Test
