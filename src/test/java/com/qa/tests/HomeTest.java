@@ -8,4 +8,9 @@ public void HomeTest()
   {
   System.out.println("hometest");
 }
+  @Test
+public void HomeTest1()
+  {
+  System.out.println("hometest");
+}
 }
